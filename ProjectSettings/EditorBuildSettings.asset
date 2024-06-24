@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Buttons/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/NumberComparing.unity
+    guid: f4b837275618a9840b86192bc2274142
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/NumberOrdering.unity
+    guid: b8ad9481ac3ac8a44877caa1fe60e2a7
+  - enabled: 1
+    path: Assets/Scenes/NumberComposing.unity
+    guid: 911f881bc318a7946a98b0dff2cd11cc
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 3d6b530e2429a7341b9147c745c37e67, type: 2}
